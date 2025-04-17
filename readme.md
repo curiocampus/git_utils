@@ -1,6 +1,6 @@
 # GitHub SSH Key Setup Script
 
-Automate your SSH workflow for a ** GitHub identity** using this battle-tested shell script. No more repeated password prompts or broken Git configs—this script handles everything from key creation to connection verification, and appends the config without nuking your existing setup.
+Automate your SSH workflow for a **GitHub identity** using this battle-tested shell script. No more repeated password prompts or broken Git configs—this script handles everything from key creation to connection verification, and appends the config without nuking your existing setup.
 
 ## What This Script Does
 
